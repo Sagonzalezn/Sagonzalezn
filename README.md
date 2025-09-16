@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samuel Gonzalez</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate engineer, familiar with devops and development from Colombia</h3>
 
-- 🌱 I’m currently studying **computer engineering**
+- 🌱 Graduated **computer and systems engineer**
 
 - 👨‍💻 All of my projects are available at [""]("")
 
 - 📝 I regularly write articles on [""]("")
 
-- 📫 How to reach me **sagonzalezn@unal.edu.co**
+- 📫 How to reach me **samuelgon1234@gmail.com**
 
 - 📄 Know about my experiences [""]("")
 
